@@ -1,4 +1,4 @@
-# Piscine中のreview依頼メールを受け取ってDiscordに通知を飛ばす
+# review依頼メールを受け取ってDiscordに通知を飛ばす
 
 ## 必要なもの
 
